@@ -1,0 +1,16 @@
+{
+  "A3": {
+    "name": "A3 Saloon",
+    "engine": {
+      "type": "petrol",
+      "engine_params": {
+        "engine_capacity": 1.6,
+        "engine_horsepower": 141
+      }
+    },
+    "color": "red",
+    "transmission": "automatic",
+    "rim_size": 15,
+    "interior": "comfort"
+  }
+}

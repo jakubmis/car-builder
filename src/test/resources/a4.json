@@ -1,0 +1,17 @@
+{
+  "A4": {
+    "name": "A4 Black Edition",
+    "engine": {
+      "type": "diesel",
+      "engine_params": {
+        "engine_capacity": 1.8,
+        "engine_horsepower": 161
+      }
+    },
+    "color": "black",
+    "transmission": "manual",
+    "rim_size": 19,
+    "interior": "sport",
+    "lcd": "IPS 5.2"
+  }
+}

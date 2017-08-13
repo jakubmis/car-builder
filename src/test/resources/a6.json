@@ -1,0 +1,16 @@
+{
+  "A6": {
+    "name": "A6 Avant",
+    "engine": {
+      "type": "petrol",
+      "engine_params": {
+        "engine_capacity": 2.0,
+        "engine_horsepower": 178
+      }
+    },
+    "color": "silver",
+    "transmission": "automatic",
+    "rim_size": 17,
+    "interior": "best offer"
+  }
+}
